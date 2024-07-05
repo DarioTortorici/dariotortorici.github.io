@@ -5,8 +5,7 @@ collection: portfolio
 ---
 
 # What is ArtsApp
-Hi Everyone, thank you for coming. I'm Dario, your host for "Aluh, the second art Reinascence."
-In today's world, fine artists struggle to gain visibility and art curators find time consuming the creation process of an exhibition. .
+In today's world, fine artists struggle to gain visibility and art curators find time consuming the creation process of an exhibition.
 ArtsApp is a matchmaking platform that makes it easy to manage exhibitions and apply for.
 
 > As curators, we spend 80% of our time on non-artistic tasks. 
