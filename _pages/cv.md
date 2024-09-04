@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-This is my full CV and may differ from the version I sent you as a recruiter. For more details you can donwload the full file [here](https://dariotortorici.github.io/files/eng-cv.pdf) or visit my [LinkedIn profile](https://www.linkedin.com/in/dario-tortorici/), which is also more likely to be up to date.
+This is my full CV and may differ from the version I sent you as a recruiter. For more details you can download the full file [here](https://dariotortorici.github.io/files/eng-cv.pdf) or visit my [LinkedIn profile](https://www.linkedin.com/in/dario-tortorici/), which is also more likely to be up to date.
 
 Work experience
 ======
