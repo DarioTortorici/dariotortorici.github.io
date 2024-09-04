@@ -10,4 +10,4 @@ paperurl: 'http://dariotortorici.github.io/files/creativity-comparative-analysis
 
 This is a seminar paper for the course "Artificial and Biological Neural Systems". The paper is a review of the current state of the art in text-to-image models and the information we have so far about the same process in the brain. I also wanted to see if the machine could be described as creative and suggest possible improvements in the evaluation and creation of creativity as a parameter.
 
-[View PDF](http://.dariotortorici.github.io/files/creativity-comparative-analysis.pdf)
+[View PDF](http://dariotortorici.github.io/files/creativity-comparative-analysis.pdf)
