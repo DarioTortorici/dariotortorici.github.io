@@ -11,6 +11,7 @@ This is my full CV and may differ from the version I sent you as a recruiter. Fo
 
 Work experience
 ======
+* [AI Engineer](https://dariotortorici.github.io/portfolio/girardini/) - Girardini, Trento 09/2024 - 11/2024
 * [ArtsApp](https://dariotortorici.github.io/portfolio/artsapp/) - Board Advisor, Trento 2024
 * [Backend Developer](https://dariotortorici.github.io/portfolio/sanbapolis/) - University of Trento Bachelor Internship, Trento 03/2023 - 09/2023
 * [AI Engineer](https://dariotortorici.github.io/portfolio/meteoTrentino/) - MeteoTrentino, Trento 09/2022 - 11/2022

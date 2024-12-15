@@ -4,15 +4,32 @@ date: 2024-04-19
 permalink: /posts/2024/04/personal-branding/
 tags:
   - personal-branding
+  - blog
 ---
 
 ### Welcome with a provocation
 
 ---
 
-As I begin this blog, I find myself in a somewhat paradoxical situation. I want to talk about personal branding, a concept about which I have some reservations. 
-Personal branding is about creating and promoting your public image. It's about defining who you are, what you stand for, and how you want to be perceived. While seemingly innocuous, I remain sceptical about the culture into which individuals project themselves as brands. You're creating a brand image, deciding what to do and what not to do, even when you're not selling anything, making you a commodity. I recognise the potential benefits of personal branding, particularly in terms of career advancement and self-marketing. However, my discomfort stems from the superficiality that is often woven into it, where authenticity takes a back seat to constructed images and narratives. Even when there's not a selection to what show i feel that the world of media exposure is used to show what I pretend to be in order to suppress my anxieties about really knowing myself.
-Criticism of personal branding already exists, and conversations about authenticity and the commodification of identity have been well explored, so I won't elaborate further. I'm just an ordinary guy and this opinion will not be read by anyone, as it should be. And if you do read it, i should have a clear conscience on how I got you to read it. Promote yourself out of venting, not out of attention-seeking. Otherwise you will feel the pain of disrespecting your intimacy.
-The purpose of this blog is just that, to talk about what I think is important to understand my perception of the world, and thus to understand myself. So, important concept of this article, I am a hypocrite 🐧.
+Starting this blog feels paradoxical, I’m here to explore personal branding with skepticism, even though it's my first step into it. Personal branding, at its core, is about crafting and promoting one’s public image: defining who you are, what you stand for, and how you wish to be perceived. On the surface, it seems both practical and harmless. However, I can’t help but question the culture it has fostered, a culture that risks turning individuals into commodities, carefully curating an image even when there is nothing tangible to sell.
 
-> Live Hidden! - Epicurus
+> Live Hidden! - *Epicurus*
+
+The advantages of personal branding are undeniable. It offers opportunities for career progression, facilitates networking, and provides a platform for self-promotion. Yet, my apprehension lies in the superficiality that often accompanies it. Critiques of personal branding are far from novel.
+
+> Many have decried the commodification of identity and the erosion of authenticity. However, I would like to offer my perspective as an ordinary individual, someone whose reflections may never reach a wide audience, and perhaps don't need to. If you've stumbled upon this blog, I hope that my reflections resonate as genuine. It's not an exercise in attention-seeking, but an honest attempt to make sense of the world and, by extension, myself.
+
+Identity is who we are. Brand identity, as a subset, is about crafting through internal truths , the external perceptions. But here lies my caution: attempts to fully control identity are inherently flawed.
+
+If we construct our identities solely through deliberate actions and storytelling, we risk creating a character to display rather than uncovering our authentic selves. True identity emerges through a continuous process of discovery, an interplay of internal reflection and external interaction. Ignoring this distinction can harm both society and individual well-being, as it shifts our focus from self-understanding to self-promotion.
+
+Moreover, identity (at least mine) is not static. It is a living, evolving reflection of growth and change. Both personal and brand identities exist in a state of impermanence, influenced by shifting internal and external dynamics.
+
+> "I am not the same as I was a second ago."  
+> — *Caparezza*, Italian singer, in the song *Prosopagnosia*
+
+A strong personal branding identity resonates emotionally, fostering a connection that aligns others with the essence of the brand. You want people to align with you, but to do that you need to align with yourself first.
+
+--- 
+
+This blog serves a dual purpose: to reflect on my thoughts and to share them with others in search of meaningful dialogue. I write first and foremost for myself, but I also write to connect with those who might share their thoughts on the topic I write about.
