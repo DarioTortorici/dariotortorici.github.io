@@ -16,7 +16,7 @@ Recently, Open Collective made a significant transition, shifting from a for-pro
 The most significant change in Open Collective's transition to a non-profit is its governance structure. In contrast to traditional startups, which are typically owned and controlled by private stakeholders and experience dilution of ownership with each round of investment, Open Collective has strategically maintained control after the [funding rounds](https://docs.opencollective.com/help/about/investors?ref=blog.opencollective.com), at the expense of a faster growth. The company always intended to exit in a "non-traditional" way, through an "Exit to Community" model. This means there are no large shares to sell or the typical financial windfall associated with a startup acquisition.
 
 > People know what it feels like to be on a tech platform where they _are_ the product instead of the ones _using_ the product, which is the case for so much mainstream tech out there. We don't want that, and our community doesn't want that
-> - _Alanna Irving_ | Open Collective COO
+> - _Alanna Irving_, Open Collective COO
 
 In this new phase, the non-profit will be governed by a board of directors made up primarily of stakeholders from the community. Reflecting its commitment to "community governance," the board will include key figures from fiscal host organizations as well as members of the Open Collective executive team. As you can see, this structure ensures that the community remains at the heart of the platform's decision-making process.
    
@@ -36,7 +36,7 @@ Despite initial funding and ongoing platform fees, there are inherent risks in r
 I would now like to share the CEO’s vision for addressing this challenge:
 
 > I don't want to spend my life growing for growth's sake
-> - _Pia Mancini_ | Open Collective CEO
+> - _Pia Mancini_, Open Collective CEO
 
 The company is betting that the funds raised so far have been sufficient to build a robust infrastructure, one that will now only require ongoing maintenance.
 
