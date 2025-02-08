@@ -7,7 +7,7 @@ tags:
   - blog
 ---
 
-### Welcome with a provocation
+Welcome with a provocation. I start a personal brand talking about concerns about personal branding.
 
 ---
 

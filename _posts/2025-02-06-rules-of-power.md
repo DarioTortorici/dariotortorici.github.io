@@ -9,6 +9,10 @@ tags:
   - blog
 ---
 
+The 7 Rules of Power, my thoughts on it and how Flavio Briatore's life fits with the book.
+
+---
+
 # Introduction
 I've recently read the book "[The 7 rules of power](https://jeffreypfeffer.com/books/7-rules-of-power/)" by Jeffrey Pfeffer , because Jos Visser on one of its blog posts on [Wednesday Wisdom](https://josvisser.substack.com/) (worth reading, both article and the blog in general) said:
 

@@ -7,6 +7,10 @@ tags:
   - case-study
 ---
 
+Short case study on the Open Collective's decision to move to the community and how to manage it with money.
+
+---
+
 # Introduction
 Open Collective is a crowdfunding platform designed to support grassroots organizations, communities, and projects by providing them with the legal status they need to raise funds through subscriptions or one-time payments. The company generates revenue by taking a percentage of these funds raised by the communities it hosts. The platform is especially popular among open-source initiatives.
 
