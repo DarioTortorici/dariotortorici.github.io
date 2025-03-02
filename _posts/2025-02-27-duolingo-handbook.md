@@ -11,7 +11,8 @@ Duolingo key lessons on product design, and how they can shape any startup’s s
 
 ---
 
-#  Introduction
+# Introduction
+
 Recently, [Duolingo released a free handbook](https://handbook.duolingo.com/?utm_source=blog.duolingo.com&utm_medium=referral&utm_campaign=handbook_blog_020725) outlining the principles behind building Duolingo. This isn’t just an insightful case study from the leader in language learning and arguably the most important edTech company; it’s also a solid framework for anyone looking to build a startup. I want to share why I found this handbook so compelling and add my humble perspective to the discussion.
 
 # Take the long view
@@ -94,7 +95,7 @@ Building version ones doesn't mean to have everything ready, but at least someth
 
 # Show don't tell
 
-This is one of the keys in 2025. We shifted how we convey information; from text to more visual contents. 
+This is one of the keys in 2025. We shifted how we convey information; from text to more visual contents.
 
 > Our app is designed to be intuitive. Instead of telling learners how to use Duolingo with pop-over messages and lengthy onboarding flows, we let design, animation, and simple prompts do the “showing.”
 
@@ -111,6 +112,7 @@ They understood that learning is much faster when it becomes a game. The gamific
 > Our characters make learning fun. [...] Even if someone cloned our entire app, learners would still come back to Duolingo for the characters.
 
 # Conclusion
+
 The very existence of this handbook gives me hope for the future of startups. We’ve grown used to the enshittification of products, but Duolingo proves that it doesn’t have to be that way.
 
 > Build a product that people genuinely love

@@ -11,7 +11,8 @@ Welcome with a provocation. I start a personal brand talking about concerns abou
 
 ---
 
-Starting this blog feels paradoxical, I’m here to explore personal branding with skepticism, even though it's my first step into it. Personal branding, at its core, is about crafting and promoting one’s public image: defining who you are, what you stand for, and how you wish to be perceived. On the surface, it seems both practical and harmless. However, I can’t help but question the culture it has fostered, a culture that risks turning individuals into commodities, carefully curating an image even when there is nothing tangible to sell.
+Starting this blog feels paradoxical, I’m here to explore personal branding with skepticism, even though it's my first step into it. Personal branding, at its core, is about crafting and promoting one’s public image: defining who you are, what you stand for, and how you wish to be perceived.
+On the surface, it seems both practical and harmless. However, I can’t help but question the culture it has fostered, a culture that risks turning individuals into commodities, carefully curating an image even when there is nothing tangible to sell.
 
 > Live Hidden! - *Epicurus*
 
@@ -30,6 +31,6 @@ Moreover, identity (at least mine) is not static. It is a living, evolving refle
 
 A strong personal branding identity resonates emotionally, fostering a connection that aligns others with the essence of the brand. You want people to align with you, but to do that you need to align with yourself first.
 
---- 
+---;
 
 This blog serves a dual purpose: to reflect on my thoughts and to share them with others in search of meaningful dialogue. I write first and foremost for myself, but I also write to connect with those who might share their thoughts on the topic I write about.

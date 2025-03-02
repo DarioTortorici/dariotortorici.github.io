@@ -14,18 +14,18 @@ Messi has always been a leader, but someone still has the military's vision of l
 I recently watched [Martin Gutman's TED talk](https://www.youtube.com/watch?v=DU06c7f9fzc), and I have to thank him for articulating something I've been thinking about for a long time.  
 
 > We confuse a good story with good leadership.
-> - Martin Gutman
+> — Martin Gutman
 
 The more a leader dodges bullets, the better they are, right? Well, not if they're the one who pulled the trigger in the first place (which, more often than not, is the case). Meanwhile, we fail to recognize those who make things look effortless. If something seems easy, the Dunning-Kruger effect kicks in, and suddenly, everyone thinks they could do it too.  
 
-For years, people said Messi lacked charisma.  
+For years, people said Messi lacked charisma.
 
 > *See the marketing move? I know football (soccer) is more popular than F1, so I'm drawing a parallel with this topic instead. I'm joking, this example actually means a lot to me because it perfectly illustrates what leadership is, at least in my eyes.*  
 
 Some argue Cristiano Ronaldo is better because Messi isn't a "leader". Even Diego Maradona, a god among Argentinians and Napoli fans, once said:  
 
 > "He's a great player, but he's not a leader. It's useless trying to make a leader out of a man who goes to the toilet 20 times before a game."  
-> - Diego Armando Maradona
+> — Diego Armando Maradona
 
 Imagine hearing your idol say that about you. But even Maradona was wrong, he was stuck in the old-school stereotype of a leader, the kind defined by gritty attitude rather than impact. I think that this perception is a leftover from military traditions.  
 
