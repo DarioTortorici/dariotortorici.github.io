@@ -22,11 +22,12 @@ That said, Gemini Code Assist isn't just a weaker version of Copilot. As a **fre
 
 - **More daily requests** (6,000 code-related queries + 240 chat interactions)
 - **Larger context window** (128K tokens vs. Copilot's 64K max with GPT-4o)
-- **Contextual chat assistance** for debugging and explanations
 
 One downside? **You can't choose different models.** Meanwhile, Copilot lets you switch, and as of March 2025, [Claude 3.7 Sonnet is looking like the best LLM for coding](https://www.anthropic.com/news/claude-3-7-sonnet).
 
 There are other tools: Cursor, Tabnine, Codeium, but I haven't tested them, so I'll just remind you that they exist.
+
+---
 
 # My tests
 
@@ -36,14 +37,15 @@ Both Copilot and Gemini performed well here, **almost identical**. This feature 
 
 ## Bug fixes
 
-I ran both on a real issue I faced in my project, Glimboard (a social network, but not really. More on that [here](https://dariotortorici.github.io/projects/glimboard/)). The codebase isn't huge, but with around 150 files, I'd still call it a sizable project.
+I ran both tools on a real issue I faced in my project, Glimboard (a social network, but not really. More on that [here](https://dariotortorici.github.io/projects/glimboard/)). The codebase isn't huge, but with around 150 files, I'd still call it a sizable project.
 Stack: **React + Tailwind**.
+
 The problem: A UX/UI bug with flashcard-style **animations messing up button clicks** after a shuffle. The animation makes one card slide under another, simulating a deck shuffle. But somehow, the buttons displayed above became **unclickable in certain areas**. Debugging revealed it was due to overlapping buttons.
 
-Both **Gemini and Copilot fixated on the wrong issue**. They kept trying to debug the **button index** logic instead of addressing the core problem. Truth is, I didn't fully understand the issue either, but I eventually realized the simplest fix: **just remove the bottom button after the animation.**
+Both **Gemini and Copilot fixated on the wrong issue**. They kept trying to debug the **button z-index** logic instead of addressing the core problem. Truth is, I didn't fully understand the issue either, but I eventually realized the simplest fix: **just remove the bottom button after the animation.**
 **The real winner? Me.**
 
-> Here if you are interested is the guess of the problem. I think it was related to how the button logic is implemented in the framework i'm using. Since a button without focus is exited. The cursor become standard again. When you move again, given that you are inside at least one of the two buttons is below and the hand cursor shows back.
+> Here, if you are interested, is the guess of the problem. I think it was related to how the button logic is implemented in the framework I'm using. Since a button is left without focus, the cursor becomes the default. Even if you are still inside the other button. When you move again, (given that you are inside at least one of the two buttons) the hand cursor shows back.
 
 ![Button problem](https://dariotortorici.github.io/images/blog-posts/code-assist-vs-copilot/Overlap-btns.png)
 *High fidelity image to explain better what I'm saying*
