@@ -1,5 +1,5 @@
 ---
-title: 'Code Assist vs GitHub Copilot
+title: "Code Assist vs GitHub Copilot"
 date: 2024-03-04
 permalink: /posts/2025/03/code-assist-vs-copilot/
 tags:
