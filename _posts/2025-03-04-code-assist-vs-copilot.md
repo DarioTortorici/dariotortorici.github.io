@@ -3,8 +3,8 @@ title: 'Code Assist vs GitHub Copilot
 date: 2024-03-04
 permalink: /posts/2025/03/code-assist-vs-copilot/
 tags:
- - AI-tools
- - programming
+  - AI-tools
+  - programming
 ---
 
 Exploring the power of the new free Gemini Code Assist compared to the well-established GitHub Copilot
