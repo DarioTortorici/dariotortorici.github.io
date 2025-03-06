@@ -9,20 +9,25 @@ This academic project (2021) was develop to try and test the methodologies of So
 ### Technologies Used
 
 #### Front-End
+
 - HTML5
 - CSS3
 - Bootstrap 5
 
 #### Back-End
+
 - Node.js
 
 #### Languages
+
 - JavaScript
 
 #### Database
+
 - MongoDB
 
 ### Features
+
 - **Account Registration**: Users are able to create a personal account to access the application.
 - **Transaction Management**: Students can record their financial transactions, specifying the amount, category, and date.
 - **Budget Visualization**: An interface will display users' overall financial budget, including details on income, expenses, and available balance.
