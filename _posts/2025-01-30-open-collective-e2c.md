@@ -1,7 +1,10 @@
 ---
+layout: single
 title: "Financial Sustainability of Open Collective's Exit to Community: A case study"
 date: 2025-01-30
 permalink: /posts/2025/01/open-collective-e2c/
+categories: 
+  - Case studies
 tags:
   - exit-to-community
   - case-study

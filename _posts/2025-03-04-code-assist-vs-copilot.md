@@ -1,7 +1,10 @@
 ---
+layout: single
 title: "Code Assist vs GitHub Copilot"
 date: 2025-03-04
 permalink: /posts/2025/03/code-assist-vs-copilot/
+categories: 
+  - AI
 tags:
   - AI-tools
   - programming

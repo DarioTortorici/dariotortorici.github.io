@@ -1,10 +1,15 @@
 ---
+layout: single
 title: "Duolingo gives me hope for the next generation of startups"
 date: 2025-02-27
 permalink: /posts/2025/02/duolingo-handbook/
+categories: 
+  - Books review
+  - Case studies
 tags:
   - case-study
   - blog
+  - book
 ---
 
 Duolingo key lessons on product design, and how they can shape any startup’s success.

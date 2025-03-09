@@ -1,7 +1,10 @@
 ---
+layout: single
 title: 'Initiating my blog and personal branding'
 date: 2024-04-19
 permalink: /posts/2024/04/personal-branding/
+categories: 
+  - Personal Branding
 tags:
   - personal-branding
   - blog

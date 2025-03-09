@@ -1,7 +1,10 @@
 ---
+layout: single
 title: "Seth Godin Ingridients to develop strategy"
 date: 2025-02-20
 permalink: /posts/2025/02/strategy-ingredients/
+categories: 
+  - Strategy
 tags:
   - strategy
   - blog

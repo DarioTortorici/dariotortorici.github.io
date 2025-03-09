@@ -1,7 +1,11 @@
 ---
+layout: single
 title: "7 Rules of power and Briatore got me thinking I don't want to be successful"
 date: 2025-02-06
 permalink: /posts/2025/02/rules-of-power/
+categories: 
+  - Personal Branding
+  - Books review
 tags:
   - power
   - personal-branding

@@ -1,7 +1,10 @@
 ---
+layout: single
 title: "Why we celebrate the wrong leaders and Messi it's a good leader"
 date: 2025-02-13
 permalink: /posts/2025/02/messi-leadership/
+categories: 
+  - Leadership
 tags:
   - leadership
   - blog
