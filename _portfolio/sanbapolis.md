@@ -7,8 +7,12 @@ collection: portfolio
 I apologize the thesis is in Italian, but you can find it [here](https://dariotortorici.github.io/files/sanbapolis.pdf)
 ---
 
-This thesis focused on the development of a web platform aimed at simplifying the management of training session recordings in the sports arena, with the aim of creating a technological infrastructure that could facilitate the companies involved.
-The internship was part of the inter-departmental project for the modernization of sports facilities technologies. As Italy had been designated for the Winter Olympic Games (Milan-Cortina 2026) and there were disciplines to be held in Trentino, this was the perfect opportunity to equip these facilities which were still under construction.
-In this context, the Sanbapolis project was a test case for addressing and understanding the infrastructure challenges associated with this digital revolution in sport.
+This thesis focused on developing a web-based platform to streamline the management of training session recordings in the sports sector, providing a technological infrastructure to support the companies involved.  
 
-I Developed the platform in HTML/PHP/JS for the Sanbapolis venue, which is used by professional teams such as Aquila Basket and Female Trentino Volley, and the platform allowed the teams to view live footage, previous recordings and make clips and annotations.
+During my internship, I designed and implemented a web platform using HTML, PHP, and JavaScript within a LAMP stack to manage and analyze training session recordings.
+The internship was part of an interdepartmental project aimed at modernizing sports facility technologies, particularly in light of Italy’s role as host for the Milan-Cortina 2026 Winter Olympics. With several disciplines set to take place in Trentino, this presented a unique opportunity to equip newly constructed venues with cutting-edge digital infrastructure.
+The main objectives of the project were to define the requirements for transforming sports venues into smart facilities, and to serve as a real-world trial to address the infrastructure challenges associated with digital transformation in sport.
+
+As part of this initiative, I collaborated with multiple university departments to integrate their research and technological solutions into the platform. The platform was successfully tested in a sports arena used by professional teams, including Aquila Basket and Trentino Volley’s women’s team.  
+
+In the final proof of concept, the platform enabled teams to access live footage, review past recordings, and create annotated clips, significantly enhancing training analysis and performance evaluation.
