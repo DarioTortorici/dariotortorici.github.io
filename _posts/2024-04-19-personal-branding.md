@@ -34,6 +34,6 @@ Moreover, identity (at least mine) is not static. It is a living, evolving refle
 
 A strong personal branding identity resonates emotionally, fostering a connection that aligns others with the essence of the brand. You want people to align with you, but to do that you need to align with yourself first.
 
----;
+---
 
 This blog serves a dual purpose: to reflect on my thoughts and to share them with others in search of meaningful dialogue. I write first and foremost for myself, but I also write to connect with those who might share their thoughts on the topic I write about.
