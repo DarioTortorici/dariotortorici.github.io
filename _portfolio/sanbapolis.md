@@ -5,6 +5,11 @@ collection: portfolio
 ---
 
 I apologize the thesis is in Italian, but you can find it [here](https://dariotortorici.github.io/files/sanbapolis.pdf)
+
+---
+
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+
 ---
 
 This thesis focused on developing a web-based platform to streamline the management of training session recordings in the sports sector, providing a technological infrastructure to support the companies involved.  

@@ -8,6 +8,10 @@ GlimBoard is an interactive platform designed to inspire and train creativity th
 
 ---
 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34)
+
+---
+
 # Why
 
 [As Simon Sinek suggest, I will start with the why.](https://www.youtube.com/watch?v=u4ZoJKF_VuA)

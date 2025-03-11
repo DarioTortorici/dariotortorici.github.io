@@ -5,6 +5,13 @@ collection: portfolio
 ---
 
 Indutrial AI Challenge by Hub Innovation Trentino (HIT) 2022 - Preventive maintenance with GNN
+
+---
+
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
+
+---
+
 [Girardini](https://www.girardini.it), an Italian company established in the early 1940s, is specialized in mold design and construction, cold stamping, and powder coating of technical sheet metal components.
 The company propose as a challenge leveraging Artificial Intelligence to develop a system for effective predictive maintenance aimed at minimizing downtime.
 

@@ -5,6 +5,10 @@ collection: projects
 status: "Interrupted"
 ---
 
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+
+---
+
 # Why a Youtube Recommender?
 
 Youtube is the largest collection of videos and for this reason sometimes it is not easy to understand before clicking if the video is relevant for learning purposes or if it is at your level.

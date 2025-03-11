@@ -5,6 +5,13 @@ collection: portfolio
 ---
 
 Public AI Challenge by Hub Innovation Trentino (HIT) 2022 - Anomaly Detection with LSTM
+
+---
+
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
+
+---
+
 MeteoTrentino is a structure of the Autonomous Province of Trento founded in 1997. It counts
 more than 100 hundred weather stations all over the Trentino region.
 The challenge proposed by MeteoTrentino is to use Artificial Intelligence to make up a code able to effectively detect anomalies in the real-time data and be integrated in the protocol to generate the
