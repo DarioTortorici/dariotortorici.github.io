@@ -4,10 +4,9 @@ title: "Seth Godin Ingridients to develop strategy"
 date: 2025-02-20
 permalink: /posts/2025/02/strategy-ingredients/
 categories: 
-  - Strategy
+  - Entrepreneurship
 tags:
-  - strategy
-  - blog
+  - Strategy
 ---
 
 Strategy is more than just a collection of tactics. Seth Godin has identified four core ingredients to help you create yours.

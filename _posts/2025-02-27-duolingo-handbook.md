@@ -6,10 +6,10 @@ permalink: /posts/2025/02/duolingo-handbook/
 categories: 
   - Books review
   - Case studies
+  - Entrepreneurship
 tags:
-  - case-study
-  - blog
-  - book
+  - Case-study
+  - Book
 ---
 
 Duolingo key lessons on product design, and how they can shape any startup’s success.

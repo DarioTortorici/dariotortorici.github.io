@@ -7,10 +7,9 @@ categories:
   - Personal Branding
   - Books review
 tags:
-  - power
-  - personal-branding
-  - books
-  - blog
+  - Power
+  - Personal-branding
+  - Book
 ---
 
 The 7 Rules of Power, my thoughts on it and how Flavio Briatore's life fits with the book.

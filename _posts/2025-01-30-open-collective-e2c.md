@@ -5,9 +5,10 @@ date: 2025-01-30
 permalink: /posts/2025/01/open-collective-e2c/
 categories: 
   - Case studies
+  - Entrepreneurship
 tags:
-  - exit-to-community
-  - case-study
+  - Exit-to-community
+  - Case-study
 ---
 
 Short case study on the Open Collective's decision to move to the community and how to manage it with money.

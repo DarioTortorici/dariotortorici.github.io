@@ -4,10 +4,9 @@ title: "Why we celebrate the wrong leaders and Messi it's a good leader"
 date: 2025-02-13
 permalink: /posts/2025/02/messi-leadership/
 categories: 
-  - Leadership
+  - Entrepreneurship
 tags:
-  - leadership
-  - blog
+  - Leadership
 ---
 
 Messi has always been a leader, but someone still has the military's vision of leadership.

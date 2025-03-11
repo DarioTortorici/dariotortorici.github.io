@@ -6,8 +6,7 @@ permalink: /posts/2024/04/personal-branding/
 categories: 
   - Personal Branding
 tags:
-  - personal-branding
-  - blog
+  - Personal-branding
 ---
 
 Welcome with a provocation. I start a personal brand talking about concerns about personal branding.

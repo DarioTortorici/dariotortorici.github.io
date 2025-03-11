@@ -7,7 +7,7 @@ categories:
   - AI
 tags:
   - AI-tools
-  - programming
+  - Programming
 ---
 
 Exploring the power of the new free Gemini Code Assist compared to the well-established GitHub Copilot
