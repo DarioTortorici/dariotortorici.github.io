@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "Duolingo gives me hope for the next generation of startups"
+excerpt: "Duolingo key lessons on product design, and how they can shape any startup’s success. <br/>"
 date: 2025-02-27
 permalink: /posts/2025/02/duolingo-handbook/
 categories: 

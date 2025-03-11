@@ -4,6 +4,10 @@ excerpt: "StartUp foundation and analysis .<br/>"
 collection: portfolio
 ---
 
+
+
+---
+
 # What is ArtsApp
 
 In today's world, fine artists struggle to gain visibility and art curators find time consuming the creation process of an exhibition.

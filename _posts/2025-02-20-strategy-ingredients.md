@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "Seth Godin Ingridients to develop strategy"
+excerpt: "Seth Godin's four core ingredients to help you create a strategy.<br/>"
 date: 2025-02-20
 permalink: /posts/2025/02/strategy-ingredients/
 categories: 

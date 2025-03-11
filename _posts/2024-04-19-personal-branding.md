@@ -1,6 +1,7 @@
 ---
 layout: single
 title: 'Initiating my blog and personal branding'
+excerpt: "Welcome with a provocation. I start a personal brand talking about concerns about personal branding. <br/>"
 date: 2024-04-19
 permalink: /posts/2024/04/personal-branding/
 categories: 

@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "Code Assist vs GitHub Copilot"
+excerpt: "Exploring the power of the new free Gemini Code Assist compared to the well-established GitHub Copilot.<br/>"
 date: 2025-03-04
 permalink: /posts/2025/03/code-assist-vs-copilot/
 categories: 
@@ -10,7 +11,7 @@ tags:
   - Programming
 ---
 
-Exploring the power of the new free Gemini Code Assist compared to the well-established GitHub Copilot
+Exploring the power of the new free Gemini Code Assist compared to the well-established GitHub Copilot.
 
 ---
 
