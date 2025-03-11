@@ -2,6 +2,7 @@
 title: "Youtube Recommender"
 excerpt: "App to identify the most effective YouTube resource for learning.<br/>"
 collection: projects
+status: "Interrupted"
 ---
 
 # Why a Youtube Recommender?

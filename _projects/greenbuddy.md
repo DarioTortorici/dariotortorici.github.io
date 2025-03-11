@@ -1,7 +1,8 @@
 ---
 title: "GreenBuddy"
 excerpt: "Mockup of a SmartPot App.<br/>"
-collection: portfolio
+collection: projects
+status: "Finished"
 ---
 
 Academic Project (2022) - Mockup of a SmartPot App

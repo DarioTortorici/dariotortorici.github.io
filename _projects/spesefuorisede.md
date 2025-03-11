@@ -2,6 +2,7 @@
 title: "SpeseFuoriSede"
 excerpt: "Web-app for tracking financial movements.<br/>"
 collection: projects
+status: "Finished"
 ---
 I apologize the git repository is all in italian, but you can find it [here](https://github.com/DarioTortorici/SpeseFuoriSede)
 This academic project (2021) was develop to try and test the methodologies of Software development. aims to create a web application for tracking financial movements of out-of-town students.

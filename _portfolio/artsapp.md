@@ -9,7 +9,7 @@ collection: portfolio
 In today's world, fine artists struggle to gain visibility and art curators find time consuming the creation process of an exhibition.
 ArtsApp is a matchmaking platform that makes it easy to manage exhibitions and apply for.
 
-> As curators, we spend 80% of our time on non-artistic tasks. 
+> As curators, we spend 80% of our time on non-artistic tasks.
 
 The solution will allow artists to express themselves and curators to streamline the process in an all-in-one platform.
 
