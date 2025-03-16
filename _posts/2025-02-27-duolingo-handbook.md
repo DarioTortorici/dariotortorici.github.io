@@ -8,9 +8,11 @@ categories:
   - Books review
   - Case studies
   - Entrepreneurship
+  - Product management
 tags:
   - Case-study
   - Book
+  - Product-design
 ---
 
 Duolingo key lessons on product design, and how they can shape any startup’s success.
