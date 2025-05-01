@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Why we celebrate the wrong leaders and Messi it's a good leader"
-excerpt: "My analysis on why Messi has always been a leader. <br/>"
+excerpt: "My analysis on why Messi has always been a leader.<br/>"
 date: 2025-02-13
 permalink: /posts/2025/02/messi-leadership/
 categories: 

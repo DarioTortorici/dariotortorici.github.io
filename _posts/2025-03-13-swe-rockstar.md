@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "I can't be a SWE Rockstar"
-excerpt: "I should write LinkedIn posts but it's time consuming. <br/>"
+excerpt: "I should write LinkedIn posts but it's time consuming.<br/>"
 date: 2025-03-13
 permalink: /posts/2025/03/swe-rockstar/
 categories: 

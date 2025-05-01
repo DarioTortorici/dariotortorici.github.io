@@ -1,6 +1,6 @@
 ---
 title: "ArtsApp"
-excerpt: "StartUp foundation and analysis .<br/>"
+excerpt: "StartUp foundation and analysis.<br/>"
 collection: portfolio
 ---
 

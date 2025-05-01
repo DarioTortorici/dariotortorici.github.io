@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Product Research Q&A"
-excerpt: "Some useful questions to ask when conducting product research. <br/>"
+excerpt: "Some useful questions to ask when conducting product research.<br/>"
 date: 2025-03-20
 permalink: /posts/2025/03/product-research/
 categories: 
