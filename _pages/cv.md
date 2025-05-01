@@ -8,12 +8,12 @@ redirect_from:
 ---
 
 This is my full CV and may differ from the version I sent you as a recruiter. Here you can find more information on what I did instead of a syntesis to fit one page.
-If you prefer the one-page version, please find the most standard version of my CV (which I consider to be the most suitable) [here](https://dariotortorici.github.io/files/dario-tortorici-cv.pdf) (last update: 21 February 2025). For further information, visit my [LinkedIn profile](https://www.linkedin.com/in/dario-tortorici/), where you can also contact me regarding employment opportunities.
+If you prefer the one-page version, please find the most standard version of my CV (which I consider to be the most suitable) [here](https://dariotortorici.github.io/files/dario-tortorici-cv.pdf) (last update: 01 May 2025). For further information, visit my [LinkedIn profile](https://www.linkedin.com/in/dario-tortorici/), where you can also contact me regarding employment opportunities.
 
 Work experience
 
 ======
-
+* [AI Engineer](https://dariotortorici.github.io/portfolio/polytec/) - BMGroup Polytec, Borgo Chiese 03/2025 - 05/2025
 * [AI Engineer](https://dariotortorici.github.io/portfolio/girardini/) - Girardini, Trento 09/2024 - 11/2024
 * [ArtsApp](https://dariotortorici.github.io/portfolio/artsapp/) - Board Advisor, Trento 2024
 * [Backend Developer](https://dariotortorici.github.io/portfolio/sanbapolis/) - University of Trento Bachelor Internship, Trento 03/2023 - 09/2023
