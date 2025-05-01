@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+🍼 Palermo, 2001
+
 🎓 I'm currently doing a Master's degree in **Artificial Intelligence Systems** at the **University of Trento**.
 
 👨‍💻 I'm working on my **Master internship**.
@@ -15,12 +17,18 @@ redirect_from:
 
 ---
 
-## More extensive about me
+## Who I am (in brief)
 
-Born in **Palermo** in **2001**, I obtained my **IT diploma in 2020** and subsequently relocated to **Trento** to pursue a **degree in Computer Science**, which I completed in **2023**. Currently, I am pursuing a master's degree in **Artificial Intelligence Systems in Trento**.
+I am an emerging artificial intelligence and innovation professional with an entrepreneurial mindset, a pragmatic approach and a strong creative drive.
 
-I consider myself a **pragmatic** and planning-oriented individual with a strong commitment to actively contributing to society through entrepreneurship.
-I have augmented my knowledge of entrepreneurship through a learn-by-doing initiative, where professors and technicians integrated theory and practice, because I believe that **entrepreneurship is best learned by practising it**.
+## What I believe
 
-From the beginning, I have always conceived of college as a learning opportunity, rather than merely a path to certifications. My choice to major in computer science stems from an interest in the digital sphere and a desire to understand how it works.
-However, my ultimate career aspiration is to become a **professional who combines technical skills with business knowledge**, as I believe this combination is more in line with my aspirations than specializing in a specific field. That's why I'm currently following the path of **"AI and Innovation"** inside my course curriculum.
+University for me was never a stage, but a laboratory of possibilities. I chose to study computer science not to become a pure technician, but to understand the digital world - to one day be **able to transform it from the inside.**
+
+**I believe that entrepreneurship is not taught, it is practiced.** That is why I combined my academic studies with practical projects, working with professors and technicians who helped me combine theory and practice. I believe in the transformative power of technology when it is driven by human values and strategic vision and I learned that ideas only become powerful when they are tested in the real world.
+
+## Where I am going
+
+My direction is clear, although the path is built step by step: I want to **work in roles where creativity, strategy and technology are intertwined.** Roles that require systemic thinking, vision and the ability to build - be it products, experiences or businesses.
+
+I am interested in everything at the intersection of technological innovation and human impact, and **my goal is to actively contribute to building a more original, inclusive and meaningful future.**
