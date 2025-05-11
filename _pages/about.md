@@ -13,8 +13,6 @@ redirect_from:
 
 👨‍💻 I'm working on my **Master internship**.
 
-👯 I'm collaborating with [BM Group Polytech](https://polytec.bmgroup.com/)
-
 ---
 
 ## Who I am (in brief)
