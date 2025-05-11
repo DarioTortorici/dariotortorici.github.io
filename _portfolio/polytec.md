@@ -8,5 +8,4 @@ collection: portfolio
 
 ---
 
-I am currently performing this job, and therefore I do not have any additional information to provide.
-The objective is to develop a logistics optimization solution for sites that utilize Automated Guided Vehicles (AGVs) to manage inbound and outbound warehouse orders.
+Developed a logistics optimization solution for warehouse environments utilizing Automated Guided Vehicles to manage both inbound and outbound orders. Designed and implemented a custom simulator and an ad hoc Multi-Agent Path Finding algorithm.

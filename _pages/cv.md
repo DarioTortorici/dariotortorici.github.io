@@ -13,6 +13,7 @@ If you prefer the one-page version, please find the most standard version of my 
 Work experience
 
 ======
+
 * [AI Engineer](https://dariotortorici.github.io/portfolio/polytec/) - BMGroup Polytec, Borgo Chiese 03/2025 - 05/2025
 * [AI Engineer](https://dariotortorici.github.io/portfolio/girardini/) - Girardini, Trento 09/2024 - 11/2024
 * [ArtsApp](https://dariotortorici.github.io/portfolio/artsapp/) - Board Advisor, Trento 2024
