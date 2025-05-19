@@ -11,7 +11,7 @@ redirect_from:
 
 🎓 I'm currently doing a Master's degree in **Artificial Intelligence Systems** at the **University of Trento**.
 
-👨‍💻 I'm working on my **Master internship**.
+👨‍💻 I'm working on my **Master Thesis**.
 
 ---
 
