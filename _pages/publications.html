@@ -1,0 +1,30 @@
+---
+layout: page
+title: Publications
+permalink: /publications/
+description: This is a collection of my publications.
+---
+
+This is a collection of my publications.
+
+{% assign sorted = site.publications | sort: 'date' | reverse %} 
+{% for item in sorted %}
+<div class="row work cards borders rounded overflow-hidden mb-4" data-aos="fade-up">
+  <div class="col-12">
+    <h1 class="double-u mb-3" style="font-size:2rem;">{{item.title}}</h1>
+    <div class="d-flex flex-wrap align-items-center mb-2">
+      <p class="company mb-0 mr-3">
+        <strong>Published on:</strong>
+        <span> {{item.venue}}</span>
+      </p>
+      <p class="date mb-0 mr-3">
+        <strong>Date:</strong>
+        <span> {{ item.date | date: '%Y' }}</span>
+      </p>
+      {% if item.paperurl %}
+      {% endif %}
+    </div>
+    <a href="{{item.url  | relative_url }}" class="nostyle stretched-link"></a>
+  </div>
+</div>
+{% endfor %}

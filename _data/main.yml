@@ -1,0 +1,73 @@
+# Image, name, profession in the sidebar
+
+image: /assets/images/profile.jpg
+name: Dario Tortorici
+profession: AI Engineer
+email: dariotortorici2001@gmail.com
+
+color-scheme: pink
+color-scheme: purple
+color-scheme: blue
+color-scheme: green
+color-scheme: orange
+
+# Set this to false in production
+color-scheme-changer-widget: false
+
+# Menu items in the sidebar
+# Use a maximum of 3 items
+menu:
+  - title: Potfolio
+    link: /portfolio/
+
+  - title: Blog
+    link: /blog/
+
+  - title: Projects
+    link: /projects/
+
+  - title: Publications
+    link: /publications/
+
+  - title: Contact
+    link: /contact/
+  
+  - title: CV
+    link: /cv/
+
+# Social icons in the sidebar
+# use font awesome icon code in the 'icon:' value
+social:
+  facebook:
+      #  icon: fa-facebook-square
+      #  link: https://facebook.com
+
+  twitter:
+      # icon: fa-twitter
+      # link: https://twitter.com
+
+  linkedin:
+      icon: fa-linkedin
+      link: https://www.linkedin.com/in/dario-tortorici/
+
+  github:
+      icon: fa-github
+      link: https://github.com/DarioTortorici/
+
+
+
+expertise:
+  - title: Python
+    level: 80
+    color: rgb(247, 205, 182)
+
+  - title: Pytorch
+    level: 80
+    color: rgb(113, 178, 222)
+    
+  - title: TensorFlow
+    level: 75
+    color: rgb(124, 142, 222)
+    
+
+buy-button: false
