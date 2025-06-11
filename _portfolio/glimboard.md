@@ -2,7 +2,7 @@
 title: "GlimBoard"
 excerpt: "Platform for creative training and development.<br/>"
 company: GlimBoard
-image: /assets/images/404.jpg
+image: /assets/images/portfolio/Glimboard.jpg
 date: 2025-06-01
 collection: portfolio
 layout: post

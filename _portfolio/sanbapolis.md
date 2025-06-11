@@ -2,7 +2,7 @@
 title: "Sanbapolis"
 excerpt: "My internship and thesis in the computer science Bachelor.<br/>"
 company: University of Trento
-image: /assets/images/404.jpg
+image: /assets/images/portfolio/unitn.png
 date: 2023-09-10
 collection: portfolio
 layout: post

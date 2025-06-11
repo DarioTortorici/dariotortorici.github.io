@@ -2,7 +2,7 @@
 title: "BM Group Polytec"
 excerpt: "Logistic optimization.<br/>"
 company: BM Group Polytec
-image: /assets/images/404.jpg
+image: /assets/images/portfolio/polytec.jpg
 date: 2025-05-26
 collection: portfolio
 layout: post
