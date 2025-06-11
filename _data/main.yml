@@ -57,17 +57,29 @@ social:
 
 
 expertise:
-  - title: Python
+  - title: AI/ML
     level: 80
     color: rgb(247, 205, 182)
 
-  - title: Pytorch
-    level: 80
-    color: rgb(113, 178, 222)
-    
-  - title: TensorFlow
+  - title: Innovation
     level: 75
     color: rgb(124, 142, 222)
+    
+  - title: Entrepreneur
+    level: 70
+    color: rgb(113, 178, 222)
+
+  - title: Rational
+    level: 85
+    color: rgb(222, 124, 142)
+
+  - title: Creative
+    level: 80
+    color: rgb(222, 142, 113)
+
+  - title: Determined
+    level: 95
+    color: rgb(142, 222, 113)
     
 
 buy-button: false
