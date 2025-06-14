@@ -44,7 +44,7 @@ Every situation involving multiple people is a game. Every move has a right or w
 
 # Empathy
 
-The concept of empathy is different from the human one, and is mostly a model for businesses, but since everyone is their own personal brand (is and not has, [deliberately written](https://dariotortorici.github.io/posts/2024/04/personal-branding/)), let's see if I too can draw some inspiration from this ingredient.
+The concept of empathy is different from the human one, and is mostly a model for businesses, but since everyone is their own personal brand (is and not has, [deliberately written](https://dariotortorici.github.io/blog/personal-branding/)), let's see if I too can draw some inspiration from this ingredient.
 People buy because they feel the need to have that product. No matter how much effort you put into it, you have to build something for someone, to fill a need. This automatically excludes producing something for everyone. Everyone has different needs.
 
 > When someone shows up at the Ferrari dealership and says, “I got six kids, how am I going to get them to school?” You don’t try to persuade them to get in an Enzo. You send them down the street to the Volvo dealership.

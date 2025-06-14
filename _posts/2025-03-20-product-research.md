@@ -169,7 +169,7 @@ A: Launching both as a web and mobile app using React. No account is required to
 **Q: What are the key features of Glimboard that I want to showcase in the MVP?**
 
 A: Cutting out non-essential features to get to the core of the product is not easy when you are talking about "social networks". Of course the platform isn't intended to be a traditional social network, but I think the core of the product is peer review. A social network has to deal with a lot of edge cases (e.g. message spam).
-Combined with the product concept of the [1st version of Duolingo](https://dariotortorici.github.io/posts/2025/02/duolingo-handbook/), the MVP will take a lot of time. Talking about other features, of course, some games and tools. To start to understand how much is the contribution of both.
+Combined with the product concept of the [1st version of Duolingo](https://dariotortorici.github.io/blog/duolingo-handbook/), the MVP will take a lot of time. Talking about other features, of course, some games and tools. To start to understand how much is the contribution of both.
 
 ---
 

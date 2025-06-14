@@ -122,7 +122,7 @@ I have to admit that this point of Dr Pfeffer's is the reason why I publish thes
 > "Flavio Briatore has succeeded over time in establishing his name as a real brand, with the consequence that saying ‘Flavio Briatore' means describing a certain lifestyle characterised by worldliness, but never disassociated from managerial ability and dedication to work."
 > — Sceresini and Scandaliato
 
-I've already explored the topic of personal branding in another article [here](https://dariotortorici.github.io/posts/2024/04/personal-branding/), and Briatore's experience aligns with my main concern. Briatore became the person he worked so hard to project. But in doing so, was he ever really himself? Maybe that doesn't sound as terrible to you as it does to me right now, writing this. Maybe this wasn't a problem for Briatore too.
+I've already explored the topic of personal branding in another article [here](https://dariotortorici.github.io/blog/personal-branding/), and Briatore's experience aligns with my main concern. Briatore became the person he worked so hard to project. But in doing so, was he ever really himself? Maybe that doesn't sound as terrible to you as it does to me right now, writing this. Maybe this wasn't a problem for Briatore too.
 He seems to have fully embraced the character he created: living in extravagant homes, attending over-the-top parties, and surrounding himself with beautiful women. Or maybe it was a problem.
 
 > If you had to define Flavio Briatore in just two words, which would you choose? [...] I would define him a lonely man.

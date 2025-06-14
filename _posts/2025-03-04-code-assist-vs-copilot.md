@@ -52,7 +52,7 @@ Both **Gemini and Copilot fixated on the wrong issue**. They kept trying to debu
 
 > Here, if you are interested, is the guess of the problem. I think it was related to how the button logic is implemented in the framework I'm using. Since a button is left without focus, the cursor becomes the default. Even if you are still inside the other button. When you move again, (given that you are inside at least one of the two buttons) the hand cursor shows back.
 
-![Button problem](https://dariotortorici.github.io/images/blog-posts/code-assist-vs-copilot/Overlap-btns.png)
+![Button problem](/assets/images/blog_images/Overlap-btns.png)
 *High fidelity image to explain better what I'm saying*
 
 ## New feature

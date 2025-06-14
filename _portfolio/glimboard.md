@@ -12,7 +12,7 @@ GlimBoard is an interactive platform designed to inspire and train creativity th
 
 ---
 
-See more about my [Product Research](https://dariotortorici.github.io/posts/2025/03/product-research)
+See more about my [Product Research](https://dariotortorici.github.io/blog/product-research/)
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34)
 
