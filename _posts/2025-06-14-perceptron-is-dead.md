@@ -5,10 +5,10 @@ excerpt: "The same neuron can use different learning rules that perceptron fails
 image: /assets/images/blog_thumbnails/perceptron_dead.png
 date: 2025-06-11
 categories: 
-  - Personal growth
+  - AI
 tags:
-  - learning
-  - digital-detox
+  - AI-research
+  - neuroscience
 ---
 
 # TLDR
