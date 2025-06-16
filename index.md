@@ -4,7 +4,7 @@ type: home
 title: Dario Tortorici
 ---
 
-🍼 Palermo, 2001
+📅 Palermo, 2001
 
 🎓 I'm currently doing a Master's degree in **Artificial Intelligence Systems** at the **University of Trento**.
 
@@ -27,5 +27,3 @@ University for me was never a stage, but a laboratory of possibilities. I chose 
 My direction is clear, although the path is built step by step: I want to **work in roles where creativity, strategy and technology are intertwined.** Roles that require systemic thinking, vision and the ability to build - be it products, experiences or businesses.
 
 I am interested in everything at the intersection of technological innovation and human impact, and **my goal is to actively contribute to building a more original, inclusive and meaningful future.**
-
-{% include expertise.html %}
