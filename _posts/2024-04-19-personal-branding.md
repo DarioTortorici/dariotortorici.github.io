@@ -3,9 +3,10 @@ title: Personal Branding
 image: /assets/images/blog_thumbnails/personal_branding.jpg
 excerpt: "Welcome with a provocation. I start a personal brand talking about concerns about personal branding. <br/>"
 author: Dario Tortorici
-categories:
-    - work
-    - projects
+categories: 
+  - Personal Branding
+tags:
+  - Personal-branding
 layout: post
 ---
 
