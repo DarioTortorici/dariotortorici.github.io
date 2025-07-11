@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Dario Tortorici
 title: "Seth Godin Ingridients to develop strategy"
 excerpt: "Seth Godin's four core ingredients to help you create a strategy.<br/>"
 image: /assets/images/blog_thumbnails/seth_godin.png

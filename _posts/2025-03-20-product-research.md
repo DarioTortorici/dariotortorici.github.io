@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Dario Tortorici
 title: "Product Research Q&A"
 excerpt: "Some useful questions to ask when conducting product research.<br/>"
 image: /assets/images/blog_thumbnails/product_research.jpg

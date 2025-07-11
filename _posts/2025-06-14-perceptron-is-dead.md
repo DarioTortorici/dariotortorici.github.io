@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Dario Tortorici
 title: "The Perceptron is dead"
 excerpt: "The same neuron can use different learning rules that perceptron fails to model.<br/>"
 image: /assets/images/blog_thumbnails/perceptron_dead.png

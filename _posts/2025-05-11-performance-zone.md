@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Dario Tortorici
 title: "The importance of practice"
 excerpt: "We don't need more social galleries to display but social gyms to train.<br/>"
 image: /assets/images/blog_thumbnails/practice.png

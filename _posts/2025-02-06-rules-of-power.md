@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Dario Tortorici
 title: "7 Rules of power and Briatore got me thinking I don't want to be successful"
 excerpt: "How successful people like Briatore naturally follows this book principle.<br/>"
 image: /assets/images/blog_thumbnails/7Rules_book.jpeg

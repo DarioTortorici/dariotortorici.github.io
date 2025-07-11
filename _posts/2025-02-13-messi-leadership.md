@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Dario Tortorici
 title: "Why we celebrate the wrong leaders and Messi it's a good leader"
 excerpt: "My analysis on why Messi has always been a leader.<br/>"
 image: /assets/images/blog_thumbnails/messi.jpg

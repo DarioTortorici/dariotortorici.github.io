@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Dario Tortorici
 title: "Duolingo gives me hope for the next generation of startups"
 excerpt: "Duolingo key lessons on product design, and how they can shape any startup’s success.<br/>"
 image: /assets/images/blog_thumbnails/duolingo.png

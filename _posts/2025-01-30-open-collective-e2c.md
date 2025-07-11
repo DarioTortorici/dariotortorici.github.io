@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Dario Tortorici
 title: "Financial Sustainability of Open Collective's Exit to Community: A case study"
 excerpt: "Exit to community strategy feasibility.<br/>"
 image: /assets/images/blog_thumbnails/opencollective_logo.png

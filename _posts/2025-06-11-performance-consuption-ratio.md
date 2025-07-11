@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Dario Tortorici
 title: "The Production-Consumption Ratio"
 excerpt: "An experiment to improve digital diet.<br/>"
 image: /assets/images/blog_thumbnails/ratio.jpg

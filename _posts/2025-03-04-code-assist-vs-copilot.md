@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Dario Tortorici
 title: "Code Assist vs GitHub Copilot"
 excerpt: "Exploring the power of the new free Gemini Code Assist compared to the well-established GitHub Copilot.<br/>"
 date: 2025-03-04

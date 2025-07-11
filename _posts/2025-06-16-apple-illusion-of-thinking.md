@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Dario Tortorici
 title: "The illusion of Apple's thinking"
 excerpt: "Apple released a paper criticizing LLM-based reasoning (LRM) systems, claiming they don't really reason. Is it true? <br/>"
 image: /assets/images/blog_thumbnails/apple_illusion.png

@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Dario Tortorici
 title: "I can't be a SWE Rockstar"
 excerpt: "I should write LinkedIn posts but it's time consuming.<br/>"
 date: 2025-03-13
