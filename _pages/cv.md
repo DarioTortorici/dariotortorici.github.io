@@ -5,10 +5,9 @@ permalink: /cv/
 description: 
 ---
 
-This is my full CV and may differ from the version I sent you as a recruiter. Here you can find more information on what I did instead of a syntesis to fit one page.
-If you prefer the one-page version, please find the most standard version of my CV (which I consider to be the most suitable) [here](https://dariotortorici.github.io/assets/documents/dario-tortorici-cv.pdf) (last update: 11 June 2025). For further information, visit my [LinkedIn profile](https://www.linkedin.com/in/dario-tortorici/), where you can also contact me regarding employment opportunities.
+This is a brief overview of the CV. For further information, visit my [LinkedIn profile](https://www.linkedin.com/in/dario-tortorici/), where you can also contact me regarding employment opportunities.
 
-Work experience
+## Work experience
 
 ======
 
@@ -18,29 +17,30 @@ Work experience
 * [Backend Developer](https://dariotortorici.github.io/portfolio/sanbapolis/) - University of Trento Bachelor Internship, Trento 03/2023 - 09/2023
 * [AI Engineer](https://dariotortorici.github.io/portfolio/meteoTrentino/) - MeteoTrentino, Trento 09/2022 - 11/2022
 
-Education
+## Education
 
 ======
 
-* M.S. in Artificial Intelligence Systems, University of Trento, Trento 2025 (expected)
+* M.S. in Artificial Intelligence Systems, University of Trento, Trento 2025
 * B.S. in Computer Science - University of Trento, Trento 2023
 * IT HighSchool Diploma - E. Majorana, Palermo 2020
 
-Languages
+## Languages
 
 ======
 
 * Italian, Mother tongue
 * English, B2 level
 
-Publications
+## Publications
 
 ======
 
 * [Creativity in Comparative Analysis between Artists and Text-to-Images](https://dariotortorici.github.io/publication/creativity-txt2img), University of Trento, 2024
 * [Artificial intelligence in cybersecurity for businesses](https://dariotortorici.github.io/publication/ai-in-cybersecurity-companies), University of Trento, 2021
 
-Certifications
+## Certifications
+
 ======
 
 * Google Project Managment - Coursera, 2025

@@ -6,16 +6,16 @@ title: Dario Tortorici
 
 📅 Palermo, 2001
 
-🎓 I'm currently doing a Master's degree in **Artificial Intelligence Systems** at the **University of Trento**.
+🎓 Msc in Artificial Intelligence Systems at the University of Trento, 2025
 
-👨‍💻 I'm working on my **Master Thesis**.
+👨‍💻 Looking for a Job.
 
 ---
 
 ## About me
   
-I am an emerging artificial intelligence and innovation professional with an entrepreneurial mindset, pragmatic approach, and strong creative drive.
+I am an artificial intelligence and innovation professional with an entrepreneurial mindset, pragmatic approach, and strong creative drive.
 
-I am passionate about creating original things with a high social impact that don't yet exist. I believe in the transformative power of technology driven by human values and strategic vision.
+I am passionate about **creating original things with a high social impact that don't yet exist**. I am committed to leveraging technology to create meaningful solutions that prioritize human values and align with a strategic vision for societal progress.
 
-During my academic studies, I gained a solid foundation in designing and optimizing AI-driven business processes, and I worked with several companies to develop custom AI solutions for real-world challenges.
+Throughout my academic journey, I developed skills in designing and optimizing business processes with artificial intelligence, applying theoretical knowledge to real-world problems in companies.
