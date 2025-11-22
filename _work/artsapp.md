@@ -2,9 +2,9 @@
 title: "ArtsApp"
 excerpt: "StartUp foundation and analysis.<br/>"
 company: ArtsApp
-image: /assets/images/portfolio/Artsapp.png
+image: /assets/images/work/Artsapp.png
 date: 2024-06-01
-collection: portfolio
+collection: work
 layout: post
 ---
 

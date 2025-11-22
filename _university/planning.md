@@ -1,9 +1,9 @@
 ---
 title: "Planning Problems"
 excerpt: "Planning Problems for the university course about Planning.<br/>"
-collection: projects
+collection: university
 status: "Finished"
-image: /assets/images/projects/planning.png
+image: /assets/images/university/planning.png
 company: University of Trento
 date: "2025-01-01"
 layout: post

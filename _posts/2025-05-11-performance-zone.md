@@ -19,53 +19,52 @@ We don't need more social galleries to display, we need social gyms to train.
 # Introduction
 
 Today I want to share a TED Talk: [*How to Get Better at the Things You Care About*](https://www.youtube.com/watch?v=YKACzIrog24) by Eduardo Briceño. Briceño breaks down two core working modes:
-**The Performance Zone** – where you execute.
-**The Learning Zone** – where you grow.
+
+- **The Performance Zone**: where you execute.
+- **The Learning Zone**: where you grow.
 
 The first is what people see. The second is where the real growth happens. We need both, but most of us are permanently stuck in the performance zone.
 
-> It's been a while since my last post. Sorry! I've been deep into my [internship at Polytec](https://dariotortorici.github.io/portfolio/polytec/), and I forgot to make room for this blog.
+> It's been a while since my last post. Sorry! I've been deep into my [internship at Polytec](https://dariotortorici.github.io/work/polytec/), and I forgot to make room for this blog.
 
 ---
 
 # Social
 
-Everything feels like performance now. We're constantly publishing, posting, sending. Everything is a highlight reel. When was the last time you saw someone share their process *without* the punchline ready?
+Everything feels like performance now. We're constantly publishing, posting, sending. Everything is an highlight reel. When was the last time you saw someone share their process without the punchline ready?
 
 Don't get me wrong, I get it. You post results. But when you're posting daily on LinkedIn for engagement, when do you experiment? When do you find meaningful sources to grow with your *gorgeous* community? (who may just be following you to steal from you, isn't that funny?)
 
 # Job
 
-In theory, jobs have 'learning' moments: training days, certifications, workshops. But how many of these are actually put into practice? You can't expect people to learn theory and apply it on the job.
+In theory, jobs have 'learning' moments: training days, certifications, workshops. But how many of these are actually put into practice? You can't expect people to learn theory and apply it on the job. Sometimes, training takes place *on-the-job*. I'm all for learning by doing. But do you really have a safe space to make mistakes? This mostly applies to more creative roles. Would you try something risky on a client project? We're asked to innovate and impress without embracing the messy process where things don't yet work. This requires time, pauses and failures, which are not feasible given the always public and polished standard we require.
 
-And for more creative roles, where's your safe space to fail? Try something wild on a client project? Risky. Share a rough sketch online? The algorithm hates it. We're asked to innovate and impress without doing the messy part, the part where things don't work yet. I'm all for learning by doing. But when 'doing' is always public or polished, your creativity gets stuck in safe repetition.
+> I promise this post isn't about me making excuses for not posting each week. But you can see why.
 
 ---
 
 # We Need Creative Gyms
 
-Briceño nails it: growth doesn't come from repetition alone. It happens when you intentionally step into the Learning Zone. A space where you don't need to be good, yet.
+Briceño is right, growth doesn't come from repetition alone. It happens when you intentionally step into the Learning Zone. A space where you don't need to be good, yet.
 
 We've built too many galleries. Not enough gyms.
 
-Think about it: artists, designers, writers,we're always curating. But who's building the space to actually *train*? Nobody hits publish on their first draft. So why do we pretend we should?
-
-> To fix this learning gap, especially now that university's ending, I've decided to start LeetCode. It's an online platform for coding challenges that helps sharpen programming and algorithm skills.
+Think about it: artists, designers, writers, we're always curating. But who's building the space to actually *train*? Nobody hits publish on their first draft. So why do we pretend we should?
 
 ---
 
 # That's Why I'm Building Glimboard
 
-Glimboard is my answer to this. Not a portfolio. Not another dopamine trap. A social gym.
+[Glimboard](https://dariotortorici.github.io/projects/glimboard/) is my answer to this. Not a work. Not another dopamine trap. A social gym.
 
-A space to try things you wouldn't post anywhere else. A place to be bad, get better, and share *that* journey. For those who need the “Uber for X” summary: Glimboard is LeetCode for creative people.
+A space to try things you wouldn't post anywhere else. A place to be bad, get better, and share *that* journey. For those who need the "Uber for X" summary: Glimboard is LeetCode for creative people.
 
 Here's how I'm designing it:
 
-* **Daily mini-games** that spark creativity, not eat your day
-* **AI tools** to surprise you with ideas you didn't expect
-* A **space for process**, not just polished results
-* Feedback that helps,not humiliates
+- **Daily mini-games** that spark creativity, not eat your day
+- **AI tools** to surprise you with ideas you didn't expect
+- A **space for process**, not just polished results
+- Feedback that helps,not humiliates
 
 It's all rooted in the Learning Zone. Glimboard should feel like reps. Like sketching for yourself before anyone sees it.
 

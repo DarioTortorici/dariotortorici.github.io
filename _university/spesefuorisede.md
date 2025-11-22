@@ -1,9 +1,9 @@
 ---
 title: "SpeseFuoriSede"
 excerpt: "Web-app for tracking financial movements.<br/>"
-collection: projects
+collection: university
 status: "Finished"
-image: /assets/images/projects/spesefuorisede.jpg
+image: /assets/images/university/spesefuorisede.jpg
 company: University of Trento
 date: "2021-01-01"
 layout: post

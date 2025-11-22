@@ -1,9 +1,9 @@
 ---
 title: "GreenBuddy"
 excerpt: "Mockup of a SmartPot App.<br/>"
-collection: projects
+collection: university
 status: "Finished"
-image: /assets/images/projects/smartpot.png
+image: /assets/images/university/smartpot.png
 company: University of Trento
 date: "2022-06-01"
 layout: post

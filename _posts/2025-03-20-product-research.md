@@ -13,12 +13,13 @@ tags:
 ---
 
 # TLDR
-Some useful questions (and answers) I asked myself for my side project Glimboard. I think some of these questions are not only related to my product, but they are systematic questions to ask yourself when doing product research.
+
+Some useful questions (and answers) I asked myself for my side project [Glimboard](https://dariotortorici.github.io/projects/glimboard/). I think some of these questions are not only related to my product, but they are systematic questions to ask yourself when doing product research.
 
 ---
 # Introduction
 
-If this isn't the first article you've read, you know that I have a project called Glimboard, an interactive platform designed to train and inspire creative minds. Today I want to go deeper into product research. I've thought about some questions that are useful to consider when implementing the right features in a product, allowing it to be planned and designed properly. Then I will give my answer for my project.
+If this isn't the first article you've read, you know that I have a project called [Glimboard](https://dariotortorici.github.io/projects/glimboard/), an interactive platform designed to train and inspire creative minds. Today I want to go deeper into product research. I've thought about some questions that are useful to consider when implementing the right features in a product, allowing it to be planned and designed properly. Then I will give my answer for my project.
 
 > Sometime questions are more important than answers
 > — Nancy WIllard

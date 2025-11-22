@@ -17,11 +17,14 @@ color-scheme-changer-widget: false
 # Menu items in the sidebar
 # Use a maximum of 3 items
 menu:
-  - title: Portfolio
-    link: /portfolio/
-
   - title: Blog
     link: /blog/
+
+  - title: Contact
+    link: /contact/
+  
+  - title: CV
+    link: /cv/
 
   - title: Projects
     link: /projects/
@@ -29,11 +32,11 @@ menu:
   - title: Publications
     link: /publications/
 
-  - title: Contact
-    link: /contact/
-  
-  - title: CV
-    link: /cv/
+  - title: Work
+    link: /work/
+
+  - title: University
+    link: /university/
 
 # Social icons in the sidebar
 # use font awesome icon code in the 'icon:' value

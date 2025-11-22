@@ -2,9 +2,9 @@
 title: "Girardini"
 excerpt: "Preventive maintenance with GNN.<br/>"
 company: Girardini
-image: /assets/images/portfolio/Girardini.jpg
+image: /assets/images/work/Girardini.jpg
 date: 2024-12-01
-collection: portfolio
+collection: work
 layout: post
 ---
 

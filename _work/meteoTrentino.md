@@ -2,9 +2,9 @@
 title: "MeteoTrentino"
 excerpt: "Anomaly Detection with LSTM.<br/>"
 company: MeteoTrentino
-image: /assets/images/portfolio/Meteotrentino.png
+image: /assets/images/work/Meteotrentino.png
 date: 2022-11-30
-collection: portfolio
+collection: work
 layout: post
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Portfolio
-permalink: /portfolio/
+title: work
+permalink: /work/
 description: My work.
 ---
 
-{% assign sorted = site.portfolio | sort: 'date' | reverse %} {% for item in
+{% assign sorted = site.work | sort: 'date' | reverse %} {% for item in
 sorted %}
 <a href="{{item.url  | relative_url }}" class="nostyle">
   <div
@@ -15,7 +15,7 @@ sorted %}
     <div class="col-md-6 work-ind">
       <div
         class="work-image"
-        style="background-image: url({{item.image  | relative_url }})"
+        style="background-image: url('{{item.image | relative_url }}')"
       ></div>
     </div>
     <div class="col-md-6 details">

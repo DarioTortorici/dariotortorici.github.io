@@ -2,9 +2,9 @@
 title: "BM Group Polytec"
 excerpt: "Logistic optimization using Automated Guided Vehicles.<br/>"
 company: BM Group Polytec
-image: /assets/images/portfolio/polytec.jpg
+image: /assets/images/work/polytec.jpg
 date: 2025-05-26
-collection: portfolio
+collection: work
 layout: post
 ---
 

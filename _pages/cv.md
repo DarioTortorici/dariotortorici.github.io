@@ -11,11 +11,11 @@ This is a brief overview of the CV. For further information, visit my [LinkedIn 
 
 ======
 
-* [AI Engineer](https://dariotortorici.github.io/portfolio/polytec/) - BMGroup Polytec, Borgo Chiese 03/2025 - 05/2025
-* [AI Engineer](https://dariotortorici.github.io/portfolio/girardini/) - Girardini, Trento 09/2024 - 11/2024
-* [ArtsApp](https://dariotortorici.github.io/portfolio/artsapp/) - Board Advisor, Trento 2024
-* [Backend Developer](https://dariotortorici.github.io/portfolio/sanbapolis/) - University of Trento Bachelor Internship, Trento 03/2023 - 09/2023
-* [AI Engineer](https://dariotortorici.github.io/portfolio/meteoTrentino/) - MeteoTrentino, Trento 09/2022 - 11/2022
+* [AI Engineer](https://dariotortorici.github.io/work/polytec/) - BMGroup Polytec, Borgo Chiese 03/2025 - 05/2025
+* [AI Engineer](https://dariotortorici.github.io/work/girardini/) - Girardini, Trento 09/2024 - 11/2024
+* [ArtsApp](https://dariotortorici.github.io/work/artsapp/) - Board Advisor, Trento 2024
+* [Backend Developer](https://dariotortorici.github.io/work/sanbapolis/) - University of Trento Bachelor Internship, Trento 03/2023 - 09/2023
+* [AI Engineer](https://dariotortorici.github.io/work/meteoTrentino/) - MeteoTrentino, Trento 09/2022 - 11/2022
 
 ## Education
 
