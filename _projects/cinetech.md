@@ -2,7 +2,7 @@
 title: "Cinetech"
 excerpt: "Platform for creative training and development.<br/>"
 company: Reply
-image: /assets/images/projects/cinetech.jpg
+image: /assets/images/projects/cinetech.png
 date: 2025-11-10
 collection: projects
 layout: post
