@@ -4,7 +4,6 @@ excerpt: "VSCode syntax highlighting for nuXmv.<br/>"
 collection: projects
 status: "InProgress"
 image: /assets/images/projects/nusmv.png
-company: None
 date: "2025-06-14"
 layout: post
 ---
@@ -15,4 +14,4 @@ layout: post
 
 ---
 
-This is a Visual Studio Code extension for nuXmv. It provides syntax highlighting, hovers and code snippets to help you streamline your formal modelling workflow. You can find the code and more details [here](https://github.com/DarioTortorici/nuXmv-Syntax-Highlighter).
+This is a Visual Studio Code extension for nuXmv. It provides syntax highlighting, hovers and code snippets to help you streamline your formal modelling workflow. You can find the code and more details in the [github repository](https://github.com/DarioTortorici/nuXmv-Syntax-Highlighter).

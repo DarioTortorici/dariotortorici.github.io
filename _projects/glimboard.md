@@ -4,7 +4,7 @@ excerpt: "Platform for creative training and development.<br/>"
 company: GlimBoard
 image: /assets/images/projects/glimboard.jpg
 date: 2025-07-01
-collection: work
+collection: projects
 layout: post
 ---
 
