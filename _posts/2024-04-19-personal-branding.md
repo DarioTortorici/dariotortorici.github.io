@@ -25,7 +25,7 @@ If we construct our identities solely through deliberate actions and storytellin
 
 Moreover, identity (at least mine) is not static. It is a living, evolving reflection of growth and change. Both personal and brand identities exist in a state of impermanence, influenced by shifting internal and external dynamics.
 
-> "I am not the same as I was a second ago."  
+> "I am not the same as I was a second ago".  
 > — *Caparezza*, Italian singer, in the song *Prosopagnosia*
 
 A strong personal branding identity resonates emotionally, fostering a connection that aligns others with the essence of the brand. You want people to align with you, but to do that you need to align with yourself first.

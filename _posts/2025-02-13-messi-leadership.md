@@ -12,6 +12,7 @@ tags:
 ---
 
 # TLDR
+
 Messi has always been a leader, but someone still has the military's vision of leadership.
 
 ---
@@ -31,7 +32,7 @@ For years, people said Messi lacked charisma.
 
 Some argue Cristiano Ronaldo is better because Messi isn't a "leader". Even Diego Maradona, a god among Argentinians and Napoli fans, once said:  
 
-> "He's a great player, but he's not a leader. It's useless trying to make a leader out of a man who goes to the toilet 20 times before a game."  
+> "He's a great player, but he's not a leader. It's useless trying to make a leader out of a man who goes to the toilet 20 times before a game".  
 > — Diego Armando Maradona
 
 Imagine hearing your idol say that about you. But even Maradona was wrong, he was stuck in the old-school stereotype of a leader, the kind defined by gritty attitude rather than impact. I think that this perception is a leftover from military traditions.  
@@ -52,9 +53,9 @@ Messi has always done that. When his team struggles to progress the ball, he dro
 
 I'm not saying that being an introvert has helped him as a leader, but when you need to get things done, whatever the situation, you should be able to shape your approach, and that's definitely something Messi has had to learn the hard way. After losing three finals (two Copa Américas and a World Cup), he wanted to quit the national team. Maybe that's not a leader's attitude, but it was important for me to understand that he was a human being.
 
-He didn't retire. Instead, he learned. He understood that his final missing piece was communication, his ability to inspire through words. The switch happened in the 2021 Copa America final. And this time, [Messi spoke](https://www.youtube.com/watch?v=f-FGYH6AkXg).
+He didn't retire. He understood that his final missing piece was communication, his ability to inspire through words. The switch happened in the 2021 Copa America final. And this time, [Messi spoke](https://www.youtube.com/watch?v=f-FGYH6AkXg).
 
-> "He said that we had all rowed in the same direction from day one. That he was proud of the young players for their commitment to this jersey. That if they were there and had given everything at the Copa América, it was because they more than deserved it." [...] "Once he finished, everyone was in tears. It touched all of us, especially the young players."  
+> "He said that we had all rowed in the same direction from day one. That he was proud of the young players for their commitment to this jersey. That if they were there and had given everything at the Copa América, it was because they more than deserved it". [...] "Once he finished, everyone was in tears. It touched all of us, especially the young players".  
 > — Ángel Di María
 
 That's leadership. That's the GOAT in a soccer field.

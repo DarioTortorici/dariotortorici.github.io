@@ -93,7 +93,7 @@ The point is that when you take a chance and break the rules, the fallout is oft
 > — Dr. Pfeffer
 
 That's fair enough. Breaking social norms to achieve goals or create a surprise effect is something I'm willing to do, but it depends on the context. Rules? Well, there are rules and _rules_. Take Formula 1, for example. Flavio Briatore is a prime example of someone who pushed the boundaries of what's considered acceptable, breaking nearly every rule in the book. But in the world of F1, this kind of behavior is almost the norm.
-Since I started watching F1, I can't recall a single season without at least some rumors of teams bending or outright breaking the rules. It's practically a part of the sport's culture. Every year, teams try to build machines that flirt with the edge of legality, hoping to avoid getting caught. This is what I mean when I say there are "rules and rules." Some are meant to be pushed to their limit, it's part of the business.
+Since I started watching F1, I can't recall a single season without at least some rumors of teams bending or outright breaking the rules. It's practically a part of the sport's culture. Every year, teams try to build machines that flirt with the edge of legality, hoping to avoid getting caught. This is what I mean when I say there are "rules and rules". Some are meant to be pushed to their limit, it's part of the business.
 If I were to become a team principal in F1 (and yes, I'm available, feel free to contact me), I'd have this mentality. But there's a line I wouldn't cross. Briatore orchestrated situations that put people's lives at risk, like asking one driver to crash deliberately so the other could win, and risking the safety of mechanics and drivers with a burning car to save seconds at a pit stop. This is where the game stops and becomes something I can't condone.
 
 Socially speaking, Flavio Briatore crossed another significant boundary: taxes. He doesn't pay taxes in Italy, having moved his official residence to Monaco, coincidentally one of the most tax-friendly regimes in Europe.
@@ -103,7 +103,7 @@ Socially speaking, Flavio Briatore crossed another significant boundary: taxes. 
 
  For his Italian companies, he's also known for employing strategies to minimize tax payments as much as possible. While this approach may give him some power, definitely it doesn't earn my respect.
 
-> Briatore declares himself absolutely innocent: ‘I have never thought or had to evade taxes,' he says. ‘The companies that evade taxes are those that go wrong'. He was sentenced to serve one year and eleven months in prison with parole.
+> Briatore declares himself absolutely innocent: 'I have never thought or had to evade taxes,' he says. 'The companies that evade taxes are those that go wrong'. He was sentenced to serve one year and eleven months in prison with parole.
 > —  Sceresini and Scandaliato
 
 # Rule #3: Appear Powerful
@@ -120,7 +120,7 @@ I'm still a bit skeptical about this idea. Sure, it's important to dress appropr
 Ultimately, all this effort is in pursuit of the fourth rule: building a personal brand. Although Dr Pfeffer insists that it's not just about "developing a look" or curating your image, it's about doing as many things as possible to make yourself known. Visibility matters. I think this is one of the little things that Briatore did not do as much, but these were other times, no internet.
 I have to admit that this point of Dr Pfeffer's is the reason why I publish these kinds of articles, even though I don't want anyone to read them, but if they do, at least they should find some of my ideas here to prove that I exist and that I'm a hypocrite (I'm aware that I'm breaking the third rule, sorry Dr Pfeffer if I've failed you).
 
-> "Flavio Briatore has succeeded over time in establishing his name as a real brand, with the consequence that saying ‘Flavio Briatore' means describing a certain lifestyle characterised by worldliness, but never disassociated from managerial ability and dedication to work."
+> "Flavio Briatore has succeeded over time in establishing his name as a real brand, with the consequence that saying 'Flavio Briatore' means describing a certain lifestyle characterised by worldliness, but never disassociated from managerial ability and dedication to work".
 > — Sceresini and Scandaliato
 
 I've already explored the topic of personal branding in another article [here](https://dariotortorici.github.io/blog/personal-branding/), and Briatore's experience aligns with my main concern. Briatore became the person he worked so hard to project. But in doing so, was he ever really himself? Maybe that doesn't sound as terrible to you as it does to me right now, writing this. Maybe this wasn't a problem for Briatore too.
@@ -139,17 +139,17 @@ Briatore did, in fact he does not talk about the past and the site gives fake in
 
 # Rule #5: Network Strategically
 
-> "Humans are social creatures, so most people do spend some of their free time interacting with others. The problem from the standpoint of Rule 5 is that much of this interaction is with family and friends, not with bosses, colleagues from work, or others who might be professionally useful."  
+> "Humans are social creatures, so most people do spend some of their free time interacting with others. The problem from the standpoint of Rule 5 is that much of this interaction is with family and friends, not with bosses, colleagues from work, or others who might be professionally useful".  
 > — Dr. Pfeffer
 
 This has never been the case for Briatore. From the _Tribüla_, life was around groups of "affairs," where networking wasn't just casual. Early in his career, Briatore naturally took on the role of what Dr. Pfeffer describes as the "broker," someone who connects parties that can mutually benefit from knowing each other. This ability, combined with the principle of "weak ties," gave him a powerful edge.
 
-> "People to whom one is weakly tied are more likely to tap into different sources and social circles, and are therefore more likely to be able to provide non-redundant information and contacts."  
+> "People to whom one is weakly tied are more likely to tap into different sources and social circles, and are therefore more likely to be able to provide non-redundant information and contacts".  
 > — Dr. Pfeffer
 
 This dynamic is precisely what propelled Briatore into Formula 1. His connection to Luciano Benetton wasn't born from deep friendship. After fleeing to the Virgin Islands to escape the prison sentence for tax evasion we discussed before, Briatore opened several Benetton franchise stores and played a significant role in expanding the brand's presence in the U.S. market.
 
-> "Luciano is a very generous man. He regarded Flavio as a kind of elder son to whom he could offer an opportunity. Then again, Flavio had the panache, the brightness that Luciano never had. And that made him irresistible in his eyes. I don't think Luciano was aware of the warrants for Flavio's arrest, nor do I think he wanted to get involved in those matters. But they were friends. And if Flavio was in trouble, Luciano would step in to help him."
+> "Luciano is a very generous man. He regarded Flavio as a kind of elder son to whom he could offer an opportunity. Then again, Flavio had the panache, the brightness that Luciano never had. And that made him irresistible in his eyes. I don't think Luciano was aware of the warrants for Flavio's arrest, nor do I think he wanted to get involved in those matters. But they were friends. And if Flavio was in trouble, Luciano would step in to help him".
 > — Sceresini and Scandaliato
 
 As always, Briatore's charm was a deciding factor. Charm I do not possess. I want to be better at casual conversation, but I'm better at deep conversation with people I know well. I'm working on it, but I don't enjoy small talk. Although it's necessary to build rapport, I'm focusing on transitioning from small talk to more meaningful conversations with new people.
@@ -157,12 +157,12 @@ Getting back to Briatore, some time later, Luciano Benetton will catapult him in
 
 # Rule #6 Use your power
 
-> "The longer someone is in a position, the more opposition they will accumulate, the more precarious their position will become, and the more difficult it will be to get things done. Thus, because their time in a powerful role will be limited, people need to act quickly to accomplish their agenda."  
+> "The longer someone is in a position, the more opposition they will accumulate, the more precarious their position will become, and the more difficult it will be to get things done. Thus, because their time in a powerful role will be limited, people need to act quickly to accomplish their agenda".  
 > — Dr. Pfeffer
 
 When I first read this, it felt counter-intuitive. I don't typically think of people in power as being so transient. Sure, in politics, governments switch between ruling and opposition, but even then, those individuals I consider it powerful even in the opposition. This idea didn't immediately resonate with me, until the follow-up.
 
-> "Instead, the more someone uses their power to get things done, including structuring the world around them and changing who works with and for them in ways that support themselves and their objectives, the more power they will have."
+> "Instead, the more someone uses their power to get things done, including structuring the world around them and changing who works with and for them in ways that support themselves and their objectives, the more power they will have".
 > — Dr. Pfeffer
 
 And it's exactly what Briatore did. He didn't just sit on the power he'd accumulated; he used it to carve out a niche, restructuring his world to reinforce his position.
@@ -184,7 +184,7 @@ The sad story is, that as Dr. Pfeffer taught us, if you have real power, you can
 
 Also Briatore got his impunity. The conviction for escape and evading arrest are no longer valid. The hands that  _Tribüla_ has always used to dig its way to success have been washed.
 
-> "He is a self-made man, for better or worse. Everyone in Cuneo says that. Then, how he did it matters little to people."
+> "He is a self-made man, for better or worse. Everyone in Cuneo says that. Then, how he did it matters little to people".
 > — An old Friend of Briatore in L'affaire Briatore
 
 # Conclusion

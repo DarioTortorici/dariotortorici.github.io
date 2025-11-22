@@ -19,7 +19,7 @@ The same neuron can use different learning rules that perceptron fails to model.
 
 # Article
 
-I recently watched an [extremely interesting video](https://www.youtube.com/watch?v=9StHNcGs-JM) that presents a study published in _Science_. The core finding is simple but disruptive: **the same neuron can use different learning rules depending on the distance of the synapse from the soma (the cell body)**. The research focused on pyramidal neurons in the motor cortex. Synapses near the soma, in the basal dendrites, follow Hebbian learning, the classic “neurons that fire together wire together.” But synapses farther away, in the apical dendrites, strengthen **without** the neuron firing, based instead on local co-activation with nearby synapses.
+I recently watched an [extremely interesting video](https://www.youtube.com/watch?v=9StHNcGs-JM) that presents a study published in _Science_. The core finding is simple but disruptive: **the same neuron can use different learning rules depending on the distance of the synapse from the soma (the cell body)**. The research focused on pyramidal neurons in the motor cortex. Synapses near the soma, in the basal dendrites, follow Hebbian learning, the classic "neurons that fire together wire together." But synapses farther away, in the apical dendrites, strengthen **without** the neuron firing, based instead on local co-activation with nearby synapses.
 
 This forces us to reconsider a foundational assumption in computational neuroscience. **Our models are too simple.**
 
