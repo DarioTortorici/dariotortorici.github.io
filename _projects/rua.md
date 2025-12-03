@@ -2,7 +2,7 @@
 title: "Rua: Your personal assistant"
 excerpt: "Platform for creative training and development.<br/>"
 company: None
-image: /assets/images/projects/rua.png
+image: /assets/images/projects/rua.jpg
 date: 2025-11-01
 collection: projects
 layout: post
